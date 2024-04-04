@@ -69,3 +69,9 @@ h2 {
     color: rgb(255, 255, 255);
     font-weight: 600;
 }
+
+footer span {
+    color: #ff0000;
+    font-size: 15px;
+    background-color: rgb(49, 0, 114);
+}
