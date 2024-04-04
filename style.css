@@ -1,0 +1,71 @@
+body {
+    background: #1ba11a url(./assets/tile.png) top left repeat;
+}
+
+#walter {
+    display: flex;
+    justify-content: center;
+    font-size: 56px;
+    color: white;
+}
+
+#walter h1 {
+    margin: 23px 0px 0px 0px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    color: rgb(255, 221, 0);
+    margin: 0px 0px;
+}
+
+#img {
+    text-align: center;
+}
+
+#img2 {
+    display: flex;
+    justify-content: center;
+}
+
+#img2 img {
+    margin: 30px 20px;
+}
+
+#i1 {
+    height: 322px;
+}
+
+#i2 {
+    height: 301px;
+}
+
+#i3 {
+    height: 343px;
+}
+
+#img3 {
+    text-align: center;
+}
+
+#historia, #historia2 {
+    margin: 20px 200px;
+    font-size: 30px;
+    color: rgb(255, 242, 0);
+    font-weight: 600;
+}
+
+#img4 {
+    display: flex;
+    justify-content: space-around;
+    margin: 0px 250px;
+}
+
+.historia3 {
+      margin: 20px 200px;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
